@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200" role="img" aria-label="이미지 준비 중 자리표시 이미지">
+  <rect width="1200" height="1200" fill="#e9e4de"/>
+  <rect x="40" y="40" width="1120" height="1120" fill="none" stroke="#d5cdc4" stroke-width="4" stroke-dasharray="24 20"/>
+  <g fill="#b6aa9e" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif" text-anchor="middle">
+    <text x="600" y="575" font-size="86" font-weight="700" letter-spacing="6">IMAGE</text>
+    <text x="600" y="672" font-size="46" letter-spacing="2">이미지 준비 중</text>
+  </g>
+</svg>
